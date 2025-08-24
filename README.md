@@ -67,6 +67,7 @@ Built using the **LPC2129 (ARM7)** microcontroller and **MCP2551 CAN transceiver
 - 📁 **Files**:
   - `fuel_node.c` – ADC read and CAN send logic
   - `adc.c`, `adc.h` – ADC setup and read
+  - `i2c.c`, `i2c.h` – I2C read 
   - `can.c`, `can.h` – CAN handling
   - `delay.c`, `delay.h` – Delay utilities
   - `types.h` – Common type definitions
