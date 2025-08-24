@@ -114,6 +114,7 @@ Built using the **LPC2129 (ARM7)** microcontroller and **MCP2551 CAN transceiver
 VECTOR_MAJOR_PROJECT/
 ├── MAIN_NODE/
 │   ├── main_node.c
+│   ├── i2c.c, i2c.h
 │   ├── lcd.c, lcd.h
 │   ├── can.c, can.h
 │   ├── delay.c, delay.h
